@@ -1,8 +1,7 @@
-package Day9_Recursion;
+package Day09_Recursion;
 import java.util.*;
 
 class Result {
- 
   static int Factorial(int A)
   {
      if(A<=0)
@@ -12,7 +11,6 @@ class Result {
        return A*Factorial(A-1);
   }  
 }
-
 
 public class Solution {
     public static void main(String []args){

@@ -1,4 +1,4 @@
-package Day5_Loops;
+package Day05_Loops;
 import java.util.*;
 
 public class Solution {

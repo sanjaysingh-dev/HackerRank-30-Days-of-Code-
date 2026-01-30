@@ -1,4 +1,4 @@
-package Day1_DataTypes;
+package Day01_DataTypes;
 import java.util.*;
 
 public class Solution {

@@ -1,4 +1,4 @@
-package Day6_LetsReview;
+package Day06_LetsReview;
 import java.util.*;
 
  public class Solution{

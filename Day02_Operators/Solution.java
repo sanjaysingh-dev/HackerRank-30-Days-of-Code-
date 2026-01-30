@@ -1,4 +1,4 @@
-package Day2_Operators;
+package Day02_Operators;
 import java.util.*;
 
 class Result

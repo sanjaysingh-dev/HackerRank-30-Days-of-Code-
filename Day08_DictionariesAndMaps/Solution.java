@@ -1,4 +1,4 @@
-package Day8_DictionariesAndMaps;
+package Day08_DictionariesAndMaps;
 import java.util.*;
 
 public class Solution{

@@ -1,4 +1,4 @@
-package Day7_Arrays;
+package Day07_Arrays;
 import java.util.*;
 
 public class Solution {

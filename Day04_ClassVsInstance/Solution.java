@@ -1,4 +1,4 @@
-package Day4_ClassVsInstance;
+package Day04_ClassVsInstance;
 import java.util.*;
 
 

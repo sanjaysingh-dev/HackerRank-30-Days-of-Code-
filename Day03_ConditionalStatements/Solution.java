@@ -1,4 +1,4 @@
-package Day3_ConditionalStatements;
+package Day03_ConditionalStatements;
 import java.util.*;
 
 public class Solution {
